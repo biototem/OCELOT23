@@ -1,0 +1,2795 @@
+{
+    "001": {
+        "counts": [
+            563387,
+            485168
+        ],
+        "organ": "kidney"
+    },
+    "002": {
+        "counts": [
+            444410,
+            574843
+        ],
+        "organ": "kidney"
+    },
+    "003": {
+        "counts": [
+            78180,
+            909102
+        ],
+        "organ": "kidney"
+    },
+    "004": {
+        "counts": [
+            793906,
+            252834
+        ],
+        "organ": "kidney"
+    },
+    "005": {
+        "counts": [
+            2105,
+            986660
+        ],
+        "organ": "kidney"
+    },
+    "006": {
+        "counts": [
+            96522,
+            951325
+        ],
+        "organ": "kidney"
+    },
+    "007": {
+        "counts": [
+            121631,
+            926478
+        ],
+        "organ": "kidney"
+    },
+    "008": {
+        "counts": [
+            290888,
+            536819
+        ],
+        "organ": "kidney"
+    },
+    "009": {
+        "counts": [
+            159493,
+            888893
+        ],
+        "organ": "kidney"
+    },
+    "010": {
+        "counts": [
+            227682,
+            818159
+        ],
+        "organ": "kidney"
+    },
+    "011": {
+        "counts": [
+            138533,
+            909991
+        ],
+        "organ": "kidney"
+    },
+    "012": {
+        "counts": [
+            357337,
+            522643
+        ],
+        "organ": "kidney"
+    },
+    "013": {
+        "counts": [
+            433945,
+            613575
+        ],
+        "organ": "kidney"
+    },
+    "014": {
+        "counts": [
+            140076,
+            900893
+        ],
+        "organ": "kidney"
+    },
+    "015": {
+        "counts": [
+            411428,
+            627063
+        ],
+        "organ": "kidney"
+    },
+    "016": {
+        "counts": [
+            451358,
+            597009
+        ],
+        "organ": "kidney"
+    },
+    "017": {
+        "counts": [
+            1036486,
+            9269
+        ],
+        "organ": "kidney"
+    },
+    "018": {
+        "counts": [
+            417480,
+            434020
+        ],
+        "organ": "kidney"
+    },
+    "019": {
+        "counts": [
+            661745,
+            375704
+        ],
+        "organ": "kidney"
+    },
+    "020": {
+        "counts": [
+            378871,
+            664614
+        ],
+        "organ": "kidney"
+    },
+    "021": {
+        "counts": [
+            738892,
+            293980
+        ],
+        "organ": "kidney"
+    },
+    "022": {
+        "counts": [
+            345733,
+            458750
+        ],
+        "organ": "kidney"
+    },
+    "023": {
+        "counts": [
+            470997,
+            547849
+        ],
+        "organ": "kidney"
+    },
+    "024": {
+        "counts": [
+            582127,
+            455597
+        ],
+        "organ": "kidney"
+    },
+    "025": {
+        "counts": [
+            84200,
+            383596
+        ],
+        "organ": "kidney"
+    },
+    "026": {
+        "counts": [
+            529647,
+            516145
+        ],
+        "organ": "kidney"
+    },
+    "027": {
+        "counts": [
+            196558,
+            829293
+        ],
+        "organ": "kidney"
+    },
+    "028": {
+        "counts": [
+            58812,
+            898813
+        ],
+        "organ": "kidney"
+    },
+    "029": {
+        "counts": [
+            13294,
+            1004260
+        ],
+        "organ": "kidney"
+    },
+    "030": {
+        "counts": [
+            435034,
+            613203
+        ],
+        "organ": "kidney"
+    },
+    "031": {
+        "counts": [
+            390327,
+            632198
+        ],
+        "organ": "kidney"
+    },
+    "032": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "033": {
+        "counts": [
+            458460,
+            477805
+        ],
+        "organ": "kidney"
+    },
+    "034": {
+        "counts": [
+            433027,
+            615364
+        ],
+        "organ": "kidney"
+    },
+    "035": {
+        "counts": [
+            686164,
+            357594
+        ],
+        "organ": "kidney"
+    },
+    "036": {
+        "counts": [
+            151970,
+            760588
+        ],
+        "organ": "kidney"
+    },
+    "037": {
+        "counts": [
+            700478,
+            348098
+        ],
+        "organ": "kidney"
+    },
+    "038": {
+        "counts": [
+            1048559,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "039": {
+        "counts": [
+            0,
+            989603
+        ],
+        "organ": "kidney"
+    },
+    "040": {
+        "counts": [
+            285403,
+            752533
+        ],
+        "organ": "kidney"
+    },
+    "041": {
+        "counts": [
+            161957,
+            886485
+        ],
+        "organ": "kidney"
+    },
+    "042": {
+        "counts": [
+            507044,
+            541386
+        ],
+        "organ": "kidney"
+    },
+    "043": {
+        "counts": [
+            272414,
+            566557
+        ],
+        "organ": "kidney"
+    },
+    "044": {
+        "counts": [
+            13758,
+            1034787
+        ],
+        "organ": "kidney"
+    },
+    "045": {
+        "counts": [
+            443175,
+            589968
+        ],
+        "organ": "kidney"
+    },
+    "046": {
+        "counts": [
+            570718,
+            477690
+        ],
+        "organ": "kidney"
+    },
+    "047": {
+        "counts": [
+            72431,
+            974975
+        ],
+        "organ": "kidney"
+    },
+    "048": {
+        "counts": [
+            24895,
+            1017295
+        ],
+        "organ": "kidney"
+    },
+    "049": {
+        "counts": [
+            226962,
+            600748
+        ],
+        "organ": "kidney"
+    },
+    "050": {
+        "counts": [
+            228636,
+            780241
+        ],
+        "organ": "kidney"
+    },
+    "051": {
+        "counts": [
+            431898,
+            615889
+        ],
+        "organ": "kidney"
+    },
+    "052": {
+        "counts": [
+            0,
+            1048576
+        ],
+        "organ": "kidney"
+    },
+    "053": {
+        "counts": [
+            788377,
+            260133
+        ],
+        "organ": "kidney"
+    },
+    "054": {
+        "counts": [
+            538680,
+            509789
+        ],
+        "organ": "kidney"
+    },
+    "055": {
+        "counts": [
+            582964,
+            464620
+        ],
+        "organ": "kidney"
+    },
+    "056": {
+        "counts": [
+            216791,
+            831768
+        ],
+        "organ": "kidney"
+    },
+    "057": {
+        "counts": [
+            257945,
+            790631
+        ],
+        "organ": "kidney"
+    },
+    "058": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "059": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "060": {
+        "counts": [
+            84969,
+            962200
+        ],
+        "organ": "kidney"
+    },
+    "061": {
+        "counts": [
+            781588,
+            266988
+        ],
+        "organ": "kidney"
+    },
+    "062": {
+        "counts": [
+            578733,
+            464360
+        ],
+        "organ": "kidney"
+    },
+    "063": {
+        "counts": [
+            904739,
+            135823
+        ],
+        "organ": "kidney"
+    },
+    "064": {
+        "counts": [
+            348206,
+            698756
+        ],
+        "organ": "kidney"
+    },
+    "065": {
+        "counts": [
+            289354,
+            755020
+        ],
+        "organ": "kidney"
+    },
+    "066": {
+        "counts": [
+            704160,
+            343547
+        ],
+        "organ": "kidney"
+    },
+    "067": {
+        "counts": [
+            167095,
+            753927
+        ],
+        "organ": "kidney"
+    },
+    "068": {
+        "counts": [
+            101956,
+            728972
+        ],
+        "organ": "kidney"
+    },
+    "069": {
+        "counts": [
+            310318,
+            729951
+        ],
+        "organ": "kidney"
+    },
+    "070": {
+        "counts": [
+            261640,
+            778508
+        ],
+        "organ": "kidney"
+    },
+    "071": {
+        "counts": [
+            100800,
+            629334
+        ],
+        "organ": "kidney"
+    },
+    "072": {
+        "counts": [
+            61048,
+            980430
+        ],
+        "organ": "kidney"
+    },
+    "073": {
+        "counts": [
+            41110,
+            1006316
+        ],
+        "organ": "kidney"
+    },
+    "074": {
+        "counts": [
+            971680,
+            75719
+        ],
+        "organ": "kidney"
+    },
+    "075": {
+        "counts": [
+            468328,
+            569194
+        ],
+        "organ": "kidney"
+    },
+    "076": {
+        "counts": [
+            430635,
+            614620
+        ],
+        "organ": "kidney"
+    },
+    "077": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "078": {
+        "counts": [
+            292393,
+            749155
+        ],
+        "organ": "kidney"
+    },
+    "079": {
+        "counts": [
+            393103,
+            529280
+        ],
+        "organ": "kidney"
+    },
+    "080": {
+        "counts": [
+            192665,
+            713987
+        ],
+        "organ": "kidney"
+    },
+    "081": {
+        "counts": [
+            935966,
+            111743
+        ],
+        "organ": "kidney"
+    },
+    "082": {
+        "counts": [
+            373678,
+            672064
+        ],
+        "organ": "kidney"
+    },
+    "083": {
+        "counts": [
+            1048339,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "084": {
+        "counts": [
+            1048552,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "085": {
+        "counts": [
+            156260,
+            889956
+        ],
+        "organ": "kidney"
+    },
+    "086": {
+        "counts": [
+            6012,
+            1042023
+        ],
+        "organ": "kidney"
+    },
+    "087": {
+        "counts": [
+            1756,
+            999913
+        ],
+        "organ": "kidney"
+    },
+    "088": {
+        "counts": [
+            72178,
+            972131
+        ],
+        "organ": "kidney"
+    },
+    "089": {
+        "counts": [
+            972426,
+            75901
+        ],
+        "organ": "kidney"
+    },
+    "090": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "091": {
+        "counts": [
+            84969,
+            488482
+        ],
+        "organ": "kidney"
+    },
+    "092": {
+        "counts": [
+            1048566,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "093": {
+        "counts": [
+            897005,
+            0
+        ],
+        "organ": "kidney"
+    },
+    "094": {
+        "counts": [
+            346573,
+            488890
+        ],
+        "organ": "kidney"
+    },
+    "095": {
+        "counts": [
+            257532,
+            781309
+        ],
+        "organ": "kidney"
+    },
+    "096": {
+        "counts": [
+            540860,
+            484891
+        ],
+        "organ": "kidney"
+    },
+    "097": {
+        "counts": [
+            324031,
+            720836
+        ],
+        "organ": "kidney"
+    },
+    "098": {
+        "counts": [
+            472603,
+            567730
+        ],
+        "organ": "kidney"
+    },
+    "099": {
+        "counts": [
+            404074,
+            638670
+        ],
+        "organ": "kidney"
+    },
+    "100": {
+        "counts": [
+            658544,
+            378139
+        ],
+        "organ": "kidney"
+    },
+    "101": {
+        "counts": [
+            54329,
+            990678
+        ],
+        "organ": "kidney"
+    },
+    "102": {
+        "counts": [
+            2474,
+            1045035
+        ],
+        "organ": "kidney"
+    },
+    "103": {
+        "counts": [
+            5352,
+            1040137
+        ],
+        "organ": "kidney"
+    },
+    "104": {
+        "counts": [
+            473701,
+            572273
+        ],
+        "organ": "kidney"
+    },
+    "105": {
+        "counts": [
+            383796,
+            451579
+        ],
+        "organ": "kidney"
+    },
+    "106": {
+        "counts": [
+            684497,
+            363881
+        ],
+        "organ": "kidney"
+    },
+    "107": {
+        "counts": [
+            505195,
+            542427
+        ],
+        "organ": "kidney"
+    },
+    "108": {
+        "counts": [
+            286133,
+            751303
+        ],
+        "organ": "kidney"
+    },
+    "109": {
+        "counts": [
+            37575,
+            989593
+        ],
+        "organ": "kidney"
+    },
+    "110": {
+        "counts": [
+            265071,
+            679295
+        ],
+        "organ": "kidney"
+    },
+    "111": {
+        "counts": [
+            92728,
+            658321
+        ],
+        "organ": "kidney"
+    },
+    "112": {
+        "counts": [
+            682433,
+            274684
+        ],
+        "organ": "kidney"
+    },
+    "113": {
+        "counts": [
+            675896,
+            363632
+        ],
+        "organ": "kidney"
+    },
+    "114": {
+        "counts": [
+            227158,
+            818698
+        ],
+        "organ": "kidney"
+    },
+    "115": {
+        "counts": [
+            68185,
+            978825
+        ],
+        "organ": "kidney"
+    },
+    "116": {
+        "counts": [
+            107627,
+            936334
+        ],
+        "organ": "kidney"
+    },
+    "117": {
+        "counts": [
+            29771,
+            997132
+        ],
+        "organ": "kidney"
+    },
+    "118": {
+        "counts": [
+            305297,
+            742836
+        ],
+        "organ": "kidney"
+    },
+    "119": {
+        "counts": [
+            667874,
+            361732
+        ],
+        "organ": "kidney"
+    },
+    "120": {
+        "counts": [
+            121595,
+            923138
+        ],
+        "organ": "kidney"
+    },
+    "121": {
+        "counts": [
+            144375,
+            903982
+        ],
+        "organ": "kidney"
+    },
+    "122": {
+        "counts": [
+            101530,
+            945007
+        ],
+        "organ": "kidney"
+    },
+    "123": {
+        "counts": [
+            777834,
+            257737
+        ],
+        "organ": "endometrium"
+    },
+    "124": {
+        "counts": [
+            0,
+            170878
+        ],
+        "organ": "endometrium"
+    },
+    "125": {
+        "counts": [
+            765827,
+            238295
+        ],
+        "organ": "endometrium"
+    },
+    "126": {
+        "counts": [
+            803051,
+            233392
+        ],
+        "organ": "endometrium"
+    },
+    "127": {
+        "counts": [
+            319938,
+            584417
+        ],
+        "organ": "endometrium"
+    },
+    "128": {
+        "counts": [
+            92310,
+            951937
+        ],
+        "organ": "endometrium"
+    },
+    "129": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "130": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "131": {
+        "counts": [
+            1048118,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "132": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "133": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "134": {
+        "counts": [
+            49037,
+            995133
+        ],
+        "organ": "endometrium"
+    },
+    "135": {
+        "counts": [
+            873774,
+            172162
+        ],
+        "organ": "endometrium"
+    },
+    "136": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "137": {
+        "counts": [
+            753421,
+            290709
+        ],
+        "organ": "endometrium"
+    },
+    "138": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "139": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "140": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "141": {
+        "counts": [
+            298296,
+            749515
+        ],
+        "organ": "endometrium"
+    },
+    "142": {
+        "counts": [
+            748539,
+            260891
+        ],
+        "organ": "endometrium"
+    },
+    "143": {
+        "counts": [
+            417402,
+            618810
+        ],
+        "organ": "endometrium"
+    },
+    "144": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "145": {
+        "counts": [
+            453857,
+            505392
+        ],
+        "organ": "endometrium"
+    },
+    "146": {
+        "counts": [
+            365929,
+            673221
+        ],
+        "organ": "endometrium"
+    },
+    "147": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "148": {
+        "counts": [
+            160022,
+            887614
+        ],
+        "organ": "endometrium"
+    },
+    "149": {
+        "counts": [
+            1048032,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "150": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "151": {
+        "counts": [
+            824453,
+            224105
+        ],
+        "organ": "endometrium"
+    },
+    "153": {
+        "counts": [
+            390662,
+            426706
+        ],
+        "organ": "endometrium"
+    },
+    "154": {
+        "counts": [
+            571015,
+            409024
+        ],
+        "organ": "endometrium"
+    },
+    "155": {
+        "counts": [
+            381208,
+            498791
+        ],
+        "organ": "endometrium"
+    },
+    "156": {
+        "counts": [
+            170481,
+            609392
+        ],
+        "organ": "endometrium"
+    },
+    "157": {
+        "counts": [
+            602315,
+            423276
+        ],
+        "organ": "endometrium"
+    },
+    "158": {
+        "counts": [
+            747250,
+            180557
+        ],
+        "organ": "endometrium"
+    },
+    "159": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "160": {
+        "counts": [
+            691894,
+            325645
+        ],
+        "organ": "endometrium"
+    },
+    "161": {
+        "counts": [
+            491312,
+            483875
+        ],
+        "organ": "endometrium"
+    },
+    "162": {
+        "counts": [
+            932861,
+            111542
+        ],
+        "organ": "endometrium"
+    },
+    "163": {
+        "counts": [
+            1048566,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "164": {
+        "counts": [
+            648576,
+            359547
+        ],
+        "organ": "endometrium"
+    },
+    "165": {
+        "counts": [
+            784953,
+            250030
+        ],
+        "organ": "endometrium"
+    },
+    "166": {
+        "counts": [
+            417660,
+            560811
+        ],
+        "organ": "endometrium"
+    },
+    "167": {
+        "counts": [
+            1048437,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "168": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "169": {
+        "counts": [
+            362889,
+            668665
+        ],
+        "organ": "endometrium"
+    },
+    "170": {
+        "counts": [
+            234669,
+            791510
+        ],
+        "organ": "endometrium"
+    },
+    "171": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "172": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "173": {
+        "counts": [
+            1046256,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "174": {
+        "counts": [
+            1048168,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "175": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "176": {
+        "counts": [
+            974733,
+            57184
+        ],
+        "organ": "endometrium"
+    },
+    "177": {
+        "counts": [
+            1048553,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "178": {
+        "counts": [
+            723466,
+            274805
+        ],
+        "organ": "endometrium"
+    },
+    "179": {
+        "counts": [
+            94104,
+            912432
+        ],
+        "organ": "endometrium"
+    },
+    "180": {
+        "counts": [
+            485851,
+            560083
+        ],
+        "organ": "endometrium"
+    },
+    "181": {
+        "counts": [
+            479218,
+            565377
+        ],
+        "organ": "endometrium"
+    },
+    "182": {
+        "counts": [
+            455801,
+            585780
+        ],
+        "organ": "endometrium"
+    },
+    "183": {
+        "counts": [
+            680182,
+            366748
+        ],
+        "organ": "endometrium"
+    },
+    "184": {
+        "counts": [
+            137285,
+            649945
+        ],
+        "organ": "endometrium"
+    },
+    "185": {
+        "counts": [
+            500010,
+            536866
+        ],
+        "organ": "endometrium"
+    },
+    "186": {
+        "counts": [
+            1048570,
+            0
+        ],
+        "organ": "endometrium"
+    },
+    "187": {
+        "counts": [
+            188697,
+            858875
+        ],
+        "organ": "endometrium"
+    },
+    "188": {
+        "counts": [
+            485156,
+            554585
+        ],
+        "organ": "endometrium"
+    },
+    "189": {
+        "counts": [
+            142442,
+            839293
+        ],
+        "organ": "endometrium"
+    },
+    "190": {
+        "counts": [
+            59730,
+            833548
+        ],
+        "organ": "endometrium"
+    },
+    "191": {
+        "counts": [
+            698024,
+            350435
+        ],
+        "organ": "endometrium"
+    },
+    "192": {
+        "counts": [
+            88671,
+            949995
+        ],
+        "organ": "endometrium"
+    },
+    "193": {
+        "counts": [
+            307091,
+            721357
+        ],
+        "organ": "endometrium"
+    },
+    "194": {
+        "counts": [
+            243798,
+            788155
+        ],
+        "organ": "endometrium"
+    },
+    "195": {
+        "counts": [
+            233966,
+            702390
+        ],
+        "organ": "endometrium"
+    },
+    "196": {
+        "counts": [
+            545719,
+            436417
+        ],
+        "organ": "endometrium"
+    },
+    "197": {
+        "counts": [
+            417572,
+            630649
+        ],
+        "organ": "endometrium"
+    },
+    "198": {
+        "counts": [
+            597807,
+            447233
+        ],
+        "organ": "endometrium"
+    },
+    "199": {
+        "counts": [
+            1035503,
+            13073
+        ],
+        "organ": "endometrium"
+    },
+    "200": {
+        "counts": [
+            277912,
+            756413
+        ],
+        "organ": "endometrium"
+    },
+    "201": {
+        "counts": [
+            234780,
+            813796
+        ],
+        "organ": "endometrium"
+    },
+    "202": {
+        "counts": [
+            555636,
+            489463
+        ],
+        "organ": "endometrium"
+    },
+    "203": {
+        "counts": [
+            831778,
+            210877
+        ],
+        "organ": "endometrium"
+    },
+    "204": {
+        "counts": [
+            549479,
+            397502
+        ],
+        "organ": "endometrium"
+    },
+    "205": {
+        "counts": [
+            97301,
+            708704
+        ],
+        "organ": "endometrium"
+    },
+    "206": {
+        "counts": [
+            228732,
+            804506
+        ],
+        "organ": "endometrium"
+    },
+    "207": {
+        "counts": [
+            127655,
+            919662
+        ],
+        "organ": "endometrium"
+    },
+    "208": {
+        "counts": [
+            530810,
+            378703
+        ],
+        "organ": "endometrium"
+    },
+    "209": {
+        "counts": [
+            333105,
+            714549
+        ],
+        "organ": "bladder"
+    },
+    "210": {
+        "counts": [
+            115951,
+            923497
+        ],
+        "organ": "bladder"
+    },
+    "211": {
+        "counts": [
+            374539,
+            629309
+        ],
+        "organ": "bladder"
+    },
+    "212": {
+        "counts": [
+            692422,
+            355447
+        ],
+        "organ": "bladder"
+    },
+    "213": {
+        "counts": [
+            215389,
+            656642
+        ],
+        "organ": "bladder"
+    },
+    "214": {
+        "counts": [
+            1030946,
+            17627
+        ],
+        "organ": "bladder"
+    },
+    "215": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "216": {
+        "counts": [
+            1021980,
+            26595
+        ],
+        "organ": "bladder"
+    },
+    "217": {
+        "counts": [
+            223330,
+            311973
+        ],
+        "organ": "bladder"
+    },
+    "218": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "219": {
+        "counts": [
+            17950,
+            1030229
+        ],
+        "organ": "bladder"
+    },
+    "220": {
+        "counts": [
+            940601,
+            96034
+        ],
+        "organ": "bladder"
+    },
+    "221": {
+        "counts": [
+            360723,
+            489908
+        ],
+        "organ": "bladder"
+    },
+    "222": {
+        "counts": [
+            827430,
+            221123
+        ],
+        "organ": "bladder"
+    },
+    "223": {
+        "counts": [
+            544852,
+            359379
+        ],
+        "organ": "bladder"
+    },
+    "224": {
+        "counts": [
+            454693,
+            589827
+        ],
+        "organ": "bladder"
+    },
+    "225": {
+        "counts": [
+            378444,
+            670050
+        ],
+        "organ": "bladder"
+    },
+    "226": {
+        "counts": [
+            180054,
+            856821
+        ],
+        "organ": "bladder"
+    },
+    "227": {
+        "counts": [
+            28494,
+            986157
+        ],
+        "organ": "bladder"
+    },
+    "228": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "229": {
+        "counts": [
+            61787,
+            897317
+        ],
+        "organ": "bladder"
+    },
+    "230": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "231": {
+        "counts": [
+            986681,
+            50484
+        ],
+        "organ": "bladder"
+    },
+    "232": {
+        "counts": [
+            742416,
+            245429
+        ],
+        "organ": "bladder"
+    },
+    "233": {
+        "counts": [
+            460616,
+            586667
+        ],
+        "organ": "bladder"
+    },
+    "234": {
+        "counts": [
+            376200,
+            671956
+        ],
+        "organ": "bladder"
+    },
+    "235": {
+        "counts": [
+            33824,
+            997226
+        ],
+        "organ": "bladder"
+    },
+    "236": {
+        "counts": [
+            333998,
+            658498
+        ],
+        "organ": "bladder"
+    },
+    "237": {
+        "counts": [
+            269830,
+            778542
+        ],
+        "organ": "bladder"
+    },
+    "238": {
+        "counts": [
+            644534,
+            351688
+        ],
+        "organ": "bladder"
+    },
+    "239": {
+        "counts": [
+            1002741,
+            45824
+        ],
+        "organ": "bladder"
+    },
+    "240": {
+        "counts": [
+            1048111,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "241": {
+        "counts": [
+            1048574,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "242": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "243": {
+        "counts": [
+            991942,
+            53972
+        ],
+        "organ": "bladder"
+    },
+    "244": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "245": {
+        "counts": [
+            544010,
+            492224
+        ],
+        "organ": "bladder"
+    },
+    "246": {
+        "counts": [
+            708161,
+            334357
+        ],
+        "organ": "bladder"
+    },
+    "247": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "248": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "249": {
+        "counts": [
+            1035689,
+            8259
+        ],
+        "organ": "bladder"
+    },
+    "250": {
+        "counts": [
+            1043293,
+            5269
+        ],
+        "organ": "bladder"
+    },
+    "251": {
+        "counts": [
+            994602,
+            25322
+        ],
+        "organ": "bladder"
+    },
+    "252": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "253": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "254": {
+        "counts": [
+            1035359,
+            6322
+        ],
+        "organ": "bladder"
+    },
+    "255": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "256": {
+        "counts": [
+            1035054,
+            13123
+        ],
+        "organ": "bladder"
+    },
+    "257": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "258": {
+        "counts": [
+            992932,
+            49154
+        ],
+        "organ": "bladder"
+    },
+    "259": {
+        "counts": [
+            1021261,
+            26792
+        ],
+        "organ": "bladder"
+    },
+    "260": {
+        "counts": [
+            130840,
+            892082
+        ],
+        "organ": "bladder"
+    },
+    "261": {
+        "counts": [
+            314756,
+            720500
+        ],
+        "organ": "bladder"
+    },
+    "262": {
+        "counts": [
+            644604,
+            401322
+        ],
+        "organ": "bladder"
+    },
+    "263": {
+        "counts": [
+            104595,
+            561918
+        ],
+        "organ": "bladder"
+    },
+    "264": {
+        "counts": [
+            169459,
+            862724
+        ],
+        "organ": "bladder"
+    },
+    "265": {
+        "counts": [
+            854314,
+            184144
+        ],
+        "organ": "bladder"
+    },
+    "266": {
+        "counts": [
+            0,
+            1048344
+        ],
+        "organ": "bladder"
+    },
+    "267": {
+        "counts": [
+            301101,
+            747206
+        ],
+        "organ": "bladder"
+    },
+    "268": {
+        "counts": [
+            64975,
+            981595
+        ],
+        "organ": "bladder"
+    },
+    "269": {
+        "counts": [
+            378553,
+            643570
+        ],
+        "organ": "bladder"
+    },
+    "270": {
+        "counts": [
+            367963,
+            677154
+        ],
+        "organ": "bladder"
+    },
+    "271": {
+        "counts": [
+            260932,
+            787397
+        ],
+        "organ": "bladder"
+    },
+    "272": {
+        "counts": [
+            368948,
+            627638
+        ],
+        "organ": "bladder"
+    },
+    "273": {
+        "counts": [
+            463684,
+            544994
+        ],
+        "organ": "bladder"
+    },
+    "274": {
+        "counts": [
+            881977,
+            147357
+        ],
+        "organ": "bladder"
+    },
+    "275": {
+        "counts": [
+            792483,
+            247722
+        ],
+        "organ": "bladder"
+    },
+    "276": {
+        "counts": [
+            527460,
+            495155
+        ],
+        "organ": "bladder"
+    },
+    "277": {
+        "counts": [
+            374989,
+            423371
+        ],
+        "organ": "bladder"
+    },
+    "278": {
+        "counts": [
+            83591,
+            957723
+        ],
+        "organ": "bladder"
+    },
+    "279": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "280": {
+        "counts": [
+            963773,
+            79723
+        ],
+        "organ": "bladder"
+    },
+    "281": {
+        "counts": [
+            361589,
+            686821
+        ],
+        "organ": "bladder"
+    },
+    "282": {
+        "counts": [
+            603159,
+            388950
+        ],
+        "organ": "bladder"
+    },
+    "283": {
+        "counts": [
+            1047810,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "284": {
+        "counts": [
+            585509,
+            452907
+        ],
+        "organ": "bladder"
+    },
+    "285": {
+        "counts": [
+            494963,
+            553256
+        ],
+        "organ": "bladder"
+    },
+    "286": {
+        "counts": [
+            1048574,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "287": {
+        "counts": [
+            1048439,
+            0
+        ],
+        "organ": "bladder"
+    },
+    "288": {
+        "counts": [
+            829146,
+            132870
+        ],
+        "organ": "bladder"
+    },
+    "289": {
+        "counts": [
+            991729,
+            52469
+        ],
+        "organ": "bladder"
+    },
+    "290": {
+        "counts": [
+            587758,
+            271502
+        ],
+        "organ": "bladder"
+    },
+    "291": {
+        "counts": [
+            1043389,
+            4966
+        ],
+        "organ": "prostate"
+    },
+    "292": {
+        "counts": [
+            1048518,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "293": {
+        "counts": [
+            768956,
+            236049
+        ],
+        "organ": "prostate"
+    },
+    "294": {
+        "counts": [
+            637290,
+            374759
+        ],
+        "organ": "prostate"
+    },
+    "295": {
+        "counts": [
+            934286,
+            112078
+        ],
+        "organ": "prostate"
+    },
+    "296": {
+        "counts": [
+            724200,
+            321081
+        ],
+        "organ": "prostate"
+    },
+    "297": {
+        "counts": [
+            343378,
+            531765
+        ],
+        "organ": "prostate"
+    },
+    "298": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "299": {
+        "counts": [
+            470869,
+            577027
+        ],
+        "organ": "prostate"
+    },
+    "300": {
+        "counts": [
+            1045016,
+            3548
+        ],
+        "organ": "prostate"
+    },
+    "301": {
+        "counts": [
+            54193,
+            853621
+        ],
+        "organ": "prostate"
+    },
+    "302": {
+        "counts": [
+            265838,
+            637592
+        ],
+        "organ": "prostate"
+    },
+    "303": {
+        "counts": [
+            197177,
+            598031
+        ],
+        "organ": "prostate"
+    },
+    "304": {
+        "counts": [
+            627306,
+            415603
+        ],
+        "organ": "prostate"
+    },
+    "305": {
+        "counts": [
+            314805,
+            716760
+        ],
+        "organ": "prostate"
+    },
+    "306": {
+        "counts": [
+            430378,
+            589932
+        ],
+        "organ": "prostate"
+    },
+    "307": {
+        "counts": [
+            1048544,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "308": {
+        "counts": [
+            830997,
+            211758
+        ],
+        "organ": "prostate"
+    },
+    "309": {
+        "counts": [
+            186231,
+            809147
+        ],
+        "organ": "prostate"
+    },
+    "310": {
+        "counts": [
+            641072,
+            332174
+        ],
+        "organ": "prostate"
+    },
+    "311": {
+        "counts": [
+            165209,
+            779682
+        ],
+        "organ": "prostate"
+    },
+    "312": {
+        "counts": [
+            324186,
+            569028
+        ],
+        "organ": "prostate"
+    },
+    "313": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "314": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "315": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "316": {
+        "counts": [
+            587815,
+            457456
+        ],
+        "organ": "prostate"
+    },
+    "317": {
+        "counts": [
+            895168,
+            104503
+        ],
+        "organ": "prostate"
+    },
+    "318": {
+        "counts": [
+            488456,
+            559221
+        ],
+        "organ": "prostate"
+    },
+    "319": {
+        "counts": [
+            782822,
+            265180
+        ],
+        "organ": "prostate"
+    },
+    "320": {
+        "counts": [
+            1048575,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "321": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "322": {
+        "counts": [
+            1048575,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "323": {
+        "counts": [
+            1048523,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "324": {
+        "counts": [
+            1048469,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "325": {
+        "counts": [
+            1048496,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "326": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "327": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "328": {
+        "counts": [
+            406275,
+            604831
+        ],
+        "organ": "prostate"
+    },
+    "329": {
+        "counts": [
+            645925,
+            378561
+        ],
+        "organ": "prostate"
+    },
+    "330": {
+        "counts": [
+            659579,
+            300908
+        ],
+        "organ": "prostate"
+    },
+    "331": {
+        "counts": [
+            737470,
+            269280
+        ],
+        "organ": "prostate"
+    },
+    "332": {
+        "counts": [
+            746682,
+            253584
+        ],
+        "organ": "prostate"
+    },
+    "333": {
+        "counts": [
+            397436,
+            499903
+        ],
+        "organ": "prostate"
+    },
+    "334": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "prostate"
+    },
+    "335": {
+        "counts": [
+            93322,
+            954552
+        ],
+        "organ": "prostate"
+    },
+    "336": {
+        "counts": [
+            395648,
+            647932
+        ],
+        "organ": "prostate"
+    },
+    "337": {
+        "counts": [
+            151257,
+            874522
+        ],
+        "organ": "prostate"
+    },
+    "338": {
+        "counts": [
+            136905,
+            497600
+        ],
+        "organ": "stomach"
+    },
+    "339": {
+        "counts": [
+            559665,
+            479730
+        ],
+        "organ": "stomach"
+    },
+    "340": {
+        "counts": [
+            518397,
+            440894
+        ],
+        "organ": "stomach"
+    },
+    "341": {
+        "counts": [
+            1036652,
+            11913
+        ],
+        "organ": "stomach"
+    },
+    "342": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "343": {
+        "counts": [
+            970815,
+            20823
+        ],
+        "organ": "stomach"
+    },
+    "344": {
+        "counts": [
+            1011215,
+            32624
+        ],
+        "organ": "stomach"
+    },
+    "345": {
+        "counts": [
+            1047841,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "346": {
+        "counts": [
+            873005,
+            45532
+        ],
+        "organ": "stomach"
+    },
+    "347": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "348": {
+        "counts": [
+            475517,
+            570752
+        ],
+        "organ": "stomach"
+    },
+    "349": {
+        "counts": [
+            617646,
+            414208
+        ],
+        "organ": "stomach"
+    },
+    "350": {
+        "counts": [
+            542862,
+            488599
+        ],
+        "organ": "stomach"
+    },
+    "351": {
+        "counts": [
+            1029269,
+            17065
+        ],
+        "organ": "stomach"
+    },
+    "352": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "353": {
+        "counts": [
+            1048569,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "354": {
+        "counts": [
+            953035,
+            81610
+        ],
+        "organ": "stomach"
+    },
+    "355": {
+        "counts": [
+            666931,
+            380226
+        ],
+        "organ": "stomach"
+    },
+    "356": {
+        "counts": [
+            1048564,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "357": {
+        "counts": [
+            638711,
+            380932
+        ],
+        "organ": "stomach"
+    },
+    "358": {
+        "counts": [
+            523516,
+            494732
+        ],
+        "organ": "stomach"
+    },
+    "359": {
+        "counts": [
+            868754,
+            157084
+        ],
+        "organ": "stomach"
+    },
+    "360": {
+        "counts": [
+            992845,
+            55728
+        ],
+        "organ": "stomach"
+    },
+    "361": {
+        "counts": [
+            0,
+            1014859
+        ],
+        "organ": "stomach"
+    },
+    "362": {
+        "counts": [
+            331778,
+            610174
+        ],
+        "organ": "stomach"
+    },
+    "363": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "364": {
+        "counts": [
+            667235,
+            360733
+        ],
+        "organ": "stomach"
+    },
+    "365": {
+        "counts": [
+            539154,
+            508881
+        ],
+        "organ": "stomach"
+    },
+    "366": {
+        "counts": [
+            971256,
+            75398
+        ],
+        "organ": "stomach"
+    },
+    "367": {
+        "counts": [
+            469442,
+            553464
+        ],
+        "organ": "stomach"
+    },
+    "368": {
+        "counts": [
+            778477,
+            252450
+        ],
+        "organ": "stomach"
+    },
+    "369": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "370": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "stomach"
+    },
+    "371": {
+        "counts": [
+            485054,
+            547358
+        ],
+        "organ": "stomach"
+    },
+    "372": {
+        "counts": [
+            846662,
+            193750
+        ],
+        "organ": "stomach"
+    },
+    "373": {
+        "counts": [
+            378200,
+            669433
+        ],
+        "organ": "stomach"
+    },
+    "374": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "375": {
+        "counts": [
+            643685,
+            370981
+        ],
+        "organ": "head-and-neck"
+    },
+    "376": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "377": {
+        "counts": [
+            872824,
+            173179
+        ],
+        "organ": "head-and-neck"
+    },
+    "378": {
+        "counts": [
+            1048575,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "379": {
+        "counts": [
+            383325,
+            660034
+        ],
+        "organ": "head-and-neck"
+    },
+    "380": {
+        "counts": [
+            300227,
+            747961
+        ],
+        "organ": "head-and-neck"
+    },
+    "381": {
+        "counts": [
+            254108,
+            682162
+        ],
+        "organ": "head-and-neck"
+    },
+    "382": {
+        "counts": [
+            289059,
+            759320
+        ],
+        "organ": "head-and-neck"
+    },
+    "383": {
+        "counts": [
+            591154,
+            455831
+        ],
+        "organ": "head-and-neck"
+    },
+    "384": {
+        "counts": [
+            597595,
+            446472
+        ],
+        "organ": "head-and-neck"
+    },
+    "385": {
+        "counts": [
+            638773,
+            405366
+        ],
+        "organ": "head-and-neck"
+    },
+    "386": {
+        "counts": [
+            1048090,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "387": {
+        "counts": [
+            290380,
+            241317
+        ],
+        "organ": "head-and-neck"
+    },
+    "388": {
+        "counts": [
+            1045291,
+            3200
+        ],
+        "organ": "head-and-neck"
+    },
+    "389": {
+        "counts": [
+            373226,
+            46851
+        ],
+        "organ": "head-and-neck"
+    },
+    "390": {
+        "counts": [
+            784620,
+            220596
+        ],
+        "organ": "head-and-neck"
+    },
+    "391": {
+        "counts": [
+            705180,
+            300765
+        ],
+        "organ": "head-and-neck"
+    },
+    "392": {
+        "counts": [
+            909556,
+            122521
+        ],
+        "organ": "head-and-neck"
+    },
+    "393": {
+        "counts": [
+            924671,
+            122265
+        ],
+        "organ": "head-and-neck"
+    },
+    "394": {
+        "counts": [
+            722446,
+            221944
+        ],
+        "organ": "head-and-neck"
+    },
+    "395": {
+        "counts": [
+            643560,
+            394899
+        ],
+        "organ": "head-and-neck"
+    },
+    "396": {
+        "counts": [
+            860520,
+            175006
+        ],
+        "organ": "head-and-neck"
+    },
+    "397": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "398": {
+        "counts": [
+            1048555,
+            0
+        ],
+        "organ": "head-and-neck"
+    },
+    "399": {
+        "counts": [
+            1011410,
+            35922
+        ],
+        "organ": "head-and-neck"
+    },
+    "400": {
+        "counts": [
+            1048576,
+            0
+        ],
+        "organ": "head-and-neck"
+    }
+}

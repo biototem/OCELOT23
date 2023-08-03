@@ -1,0 +1,158 @@
+source:
+  #  image_root: "~/resource/data/images"
+  #  label_root: "~/resource/data/labels"
+  image_root: "/media/totem_data_backup/totem/tiger-training-data/wsirois/roi-level-annotations/tissue-bcss/images"
+  label_root: "/media/totem_data_backup/totem/tiger-training-data/wsirois/roi-level-annotations/tissue-bcss/masks"
+  lib: "~/cache/source.lib"
+
+cropper:
+  # type: 'random'
+  type: 'active'
+  groups_lib: "~/cache/groups.yaml"
+  cropper_lib: "~/cache/cropper.yaml"
+  cropper_root: "~/cache/"
+  predict_lib: "~/cache/predict.yaml"
+  # target_mpp 是构建数据源时约定的图像分辨率
+  target_mpp: 0.5
+  patch_size: 512
+  step: 256
+
+dataset:
+  length: 18000
+  class_num: 2
+  use_migrate: False
+  use_confidence: False
+  in_memory: True
+  cache:
+    length: 20
+    memory: 4
+  # 像素数占比
+  # bg:       0.0959   10    无效分类，最低赋权
+  # tumor1:   0.1703   6     主分类，低赋权
+  # stroma1:  0.4574   2     主分类，低赋权
+  # tumor2:   0.1019   20    关键分类，高赋权
+  # normal:   0.1521   6     占比过低，放弃治疗
+  # necrosis: 0.0108   90    次要分类，中高赋权
+  # stroma2:  0.0111   90    主分类，中等赋权
+  # rest:     0.0005   2000  次要分类，中高赋权
+  # 赋权设计：
+  # bg 1, tm1 3, st1 1, tm2 5, nm 3, nc 20, st2 20, rs 40
+  active_weight: [1, 1]
+  train:
+    use_active: True
+    use_box: True
+    rotate: 'random[-45, 45]'
+    scaling: 'random[0.9, 1.2]'   # 'random[start, end]' or 'list[0.5, 1, 2, 4]'
+  valid:
+    # 验证集必须使用 use_box
+    use_box: True
+    use_scale: True
+    rotate: 'list[0]'
+    scaling: 'list[1]'
+  test:
+    # 测试集总是不用 use_box
+    use_box: False
+    use_scale: True
+    rotate: 'list[0]'
+    scaling: 'list[1]'
+  predict:
+    use_scale: True
+    scaling: 'random[0.8, 1.2]'
+  # formatter settings
+  formatter:
+    # type: 'simple'
+    type: 'norm'
+    name: '--'  # "timm-resnest14d" # "Net21" # "timm-resnest50d"
+    weights: '--'
+  # transfer settings
+  transfer:
+    gamma: [ 95, 105 ]
+    hsv:
+      h: 40
+      s: 10
+      v: 10
+    bc:
+      b: 0.5
+      c: 0.5
+    level: 'strong' # weak
+    elastic: 'off' # on
+    cut: 'off'
+
+# model settings
+model:
+  # name: 'Net24'  # "timm-resnest14d" # "Net21" # "timm-resnest50d"
+  name: 'van'
+  # 注意： auxiliary 是辅助网络的意思，目前只启用了一个辅助网络，即 van 源码中使用的 mmcv.fcn, 所以 auxiliary 是一个 bool
+  # 虽然 smp 中也有 fcn，但我不确定二者是否一致，因此我直接将 mmcv.fcn 源码转写在 ./main/model/net/structure 下作为特别指定的辅助网络
+  auxiliary: True
+  weights: "imagenet"
+  active: "softmax2d"
+  optimizer: 'adam'
+  loss: 'lce_dice:1'
+  ce_limit: 15
+  label_smooth: 0.08
+  label_weights: []
+  scheduler: 'coswarm'
+  # 'coswarm' # 'coswarm' or 'step'
+  warmup:
+  # 'line'
+  lr:
+    encoder: 1e-4
+    decoder: 1e-4
+    auxiliary: 1e-4
+    head: 1e-3
+    wt_net: 1e-4
+    van: 1e-4
+    crf: 1e-3
+    activation: 1e-4
+
+build:
+  visual_root: "~/cache/visual"
+
+# train settings
+train:
+  #  device: 'cuda:2'
+  device: 2
+  batch_size: 14
+  epoch: 40  # 200
+  strengthen_epoch: 20
+  save_epoch: 1   # 每多少代保存
+  num_workers: 1
+  tqdm_verbose: True
+
+evaluate:
+  #  device: 0
+  device: 0
+  batch_size: 36
+  #  target_group: ['valid']
+  target_group: ['hard', 'valid']
+  # 分类名称列
+  class_names: [
+      'BG',  # 背景，值序：0，染色：浅灰
+      'CA',  # 浸润性肿瘤，值序：1，染色：亮红
+    ]
+
+# visual settings
+visual:
+  dataset_root: "~/datasource/visual"
+  predict_root: "~/datasource/visual"
+  color:
+    box: [0, 255, 255]      # 青色 -> box框
+    fill: [
+      [ 180, 120, 0   ],    # 橙黄 -> Background -- 背景区域
+      [ 255, 0  , 0   ],    # 亮红 -> Cancer Area -- 癌症区域
+    ]
+    outline: [
+      [ 180, 120, 0   ],    # 橙黄 -> Background -- 背景区域
+      [ 255, 0  , 0   ],    # 亮红 -> Cancer Area -- 癌症区域
+    ]
+  bord_width: 7
+
+# output settings
+output:
+  root: "~/output/"
+  target: "latest"
+  full: "full"
+  model: "model.pth"
+  log: "log.csv"
+  visual: True

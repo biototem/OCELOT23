@@ -1,0 +1,12 @@
+tensorflow-datasets          4.2.0
+tensorflow-estimator         2.4.0
+tensorflow-examples          0964dc3b7ae48033fd477a82be3c1572735e26f5-
+tensorflow-io                0.23.1
+tensorflow-io-gcs-filesystem 0.23.1
+tensorflow-metadata          0.26.0
+tf-estimator-nightly        2.5.0.dev2021010701
+tf-nightly                  2.5.0.dev20210103
+tf-slim                     1.1.0
+tf-utils                    1.0.4
+tb-nightly                  2.5.0a20210107
+

@@ -1,0 +1,22 @@
+import os.path
+
+from basic import config
+from utils import Timer
+from process import do_build
+
+
+def main():
+    with Timer() as T:
+        # 预构建流程，用于解析数据源，通常解析一遍即可、但开发初期可能频繁修改解析方案。
+        do_build(T=T)
+        # # 我们也可以将训练和验证分成两个流程
+        # # do_train_save_epoch()
+        # # do_valid()
+        # # 测试流程，通常指定某个模型来预测和评估
+        # model_path1 = join(f'~/output/{config["output.target"]}/best_dice.pth')
+        # model_path2 = join(f'~/output/{config["output.target"]}/best_ce.pth')
+        # do_test(model_path1, model_path2)
+
+
+if __name__ == '__main__':
+    main()
